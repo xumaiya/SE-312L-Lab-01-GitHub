@@ -11,7 +11,6 @@ public class Question {
         this.explanation = explanation;
     }
 
-    // Getters
     public String getQuestionText() {
         return questionText;
     }
